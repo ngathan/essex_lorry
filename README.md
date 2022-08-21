@@ -1,2 +1,3 @@
-This repo hosts reproducible code to the paper "#Lorrydeaths—Structural Topic Modeling"
+## \#LorryDeaths 
+This repo hosts reproducible code to the paper "#Lorrydeaths—Structural Topic Modeling" 
  '
